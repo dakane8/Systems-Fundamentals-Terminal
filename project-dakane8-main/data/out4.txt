@@ -1,2 +1,0 @@
-thsh$ Command nonexistentcommand not found!
-thsh$ 
